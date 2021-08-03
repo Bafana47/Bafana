@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>homepage</title>
+    <style> 
+    h3{
+        color:green;
+        font-size:50px;
+    }
+    </style>
+
+</head>
+<body>
+<h1>Welcome to my page</h1> 
+<p>Welcome to my page</p>
+<a href="http:/www.google.com"tagert="top">about</a>
+<a href="/Pages/about.html"tagert="top">portfolio</a>
+<a href="./Pages/contact.html"tagret="blank">contacts</a>
+<h1 style="color:red;font-size:40px;background-color :blue">I am Bafana</h1> 
+<h3>Front-end developer</h3>
+<p>I am a designer and will be introducing you into the design world</p>
+<p class="red">Paragraph 1 color red </p>
+<p>Paragraph 2 color blue</p>
+<p id="demo">id selector</p>
+
+
+<p>Hello</p>
+<p>World</p>
+<a href="#">Hello</a>
+<a href="#">World</a>
+<h1>Styling text tutorial</h1>
+<p class="font style">There are two catergories of color property </p>
+<div class="parent">
+ <p class="em">using em unit</p>
+
+</div>
+
+
+</body>
+
+</html>
